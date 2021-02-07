@@ -90,8 +90,6 @@ function update_text(){
 
 </body></html>
 </details>
-   
-
 
 # Markdown
   * [Daring Fireball](https://daringfireball.net/projects/markdown/)
