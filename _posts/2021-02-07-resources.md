@@ -11,7 +11,7 @@ date: 2021-02-07
   
 # git
   * [Guides](https://guides.github.com/)
-  * [Learning Lab](https://lab.github.com/https://lab.github.com/)
+  * [Learning Lab](https://lab.github.com/)
   * [hello world](https://guides.github.com/activities/hello-world/)
   * [open source guides](https://github.com/github/opensource.guide)
   * [Complete Markdown Emoji List](https://gist.github.com/rxaviers/7360908)
