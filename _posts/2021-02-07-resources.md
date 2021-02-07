@@ -26,7 +26,7 @@ date: 2021-02-07
   [homepage](https://jekyllrb.com/)
   
 # CLI / Bash
-  * [The Linux Coomand Line *by William Shotts*](/http://linuxcommand.org/tlcl.php)
+  * [The Linux Command Line *by William Shotts*](/http://linuxcommand.org/tlcl.php)
   
 # Linux
   * [Linux Journey](https://linuxjourney.com/)
