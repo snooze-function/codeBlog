@@ -1,9 +1,9 @@
-title: code blog by paji&red
+title: code blog
 author: snooze-function
 theme: minima
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  code blog by paji&red
+  by paji&red
 
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
