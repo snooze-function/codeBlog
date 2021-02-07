@@ -99,7 +99,7 @@ function update_text(){
   [homepage](https://jekyllrb.com/)
   
 # CLI / Bash
-  * [The Linux Command Line *by William Shotts*](/http://linuxcommand.org/tlcl.php)
+  * [The Linux Command Line *by William Shotts*](http://linuxcommand.org/tlcl.php)
   
 # Linux
   * [Linux Journey](https://linuxjourney.com/)
