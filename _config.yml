@@ -1,0 +1,12 @@
+title: code blog by paji&red
+author: snooze-function
+theme: minima
+# email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  code blog by paji&red
+
+# social links
+# twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  snooze-function # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: false # set to false to remove excerpts on the homepage
