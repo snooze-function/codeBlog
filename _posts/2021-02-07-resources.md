@@ -95,8 +95,7 @@ function update_text(){
   * [Daring Fireball](https://daringfireball.net/projects/markdown/)
   * [Markdown Reference](https://commonmark.org/help/)
 
-# Jekyll
-  [homepage](https://jekyllrb.com/)
+# [Jekyll](https://jekyllrb.com/)
   
 # CLI / Bash
   * [The Linux Command Line *by William Shotts*](http://linuxcommand.org/tlcl.php)
